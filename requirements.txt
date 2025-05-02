@@ -1,0 +1,5 @@
+flask
+rich
+fake_useragent
+faker
+bs4
