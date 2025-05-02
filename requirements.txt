@@ -3,3 +3,4 @@ rich
 fake_useragent
 faker
 bs4
+requests
